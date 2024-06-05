@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiakhan1&show_icons=true&locale=en" alt="rafiakhan1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiakhan1&" alt="rafiakhan1" /></p>
+
+![Alt](https://repobeats.axiom.co/api/embed/05021e335cce9536d2fdeeb487aef92e415b9201.svg "Repobeats analytics image")

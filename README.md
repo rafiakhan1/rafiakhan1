@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arhamhashmi01&theme=onestar" alt="arhamhashmi01" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rafiakhan1&theme=onestar" alt="rafiakhan1" />
   </a>
 </p>
 
@@ -39,6 +39,9 @@
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/05021e335cce9536d2fdeeb487aef92e415b9201.svg "Repobeats analytics image")
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <picture>
   <source
